@@ -33,7 +33,7 @@ The demo highlights:
 *Lock ChormaWay tokens and monitor rewards in real-time.*
 
 ### Game Lobby
-![Game Lobby](./public/Screenshot-4.png)  
+![Game Lobby](./public/Screenshot_4.png)  
 *Casino-style game previews including roulette, slots, and prize wheel.*
 
 ---
