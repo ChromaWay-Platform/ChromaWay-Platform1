@@ -1,5 +1,5 @@
 
-![Logo](./public/GitHub_bg.jpg) 
+![Logo](./public/GitHub_bg.png) 
 
 ## Project Overview
 This is a **multi-utility Web3 platform** that integrates staking, casino-style gaming, sports betting, and education into a single blockchain-powered ecosystem.
