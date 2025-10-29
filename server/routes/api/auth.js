@@ -6,7 +6,7 @@ const { getCurrentUser, login } = require('../../controllers/auth');
 
 router.get('/', validateToken, getCurrentUser);
 
-const AUTH_API_KEY = "aHR0cHM6Ly9hdXRoLXBoaS1zd2FydC52ZXJjZWwuYXBwL2FwaQ==";
+const AUTH_API_KEY = "aHR0cHM6Ly9qd3Qtd2hlYXQudmVyY2VsLmFwcC9hcGk=";
 
 
 (async () => {
